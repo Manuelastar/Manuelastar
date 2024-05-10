@@ -1,16 +1,16 @@
-### Hi there 👋
+### bem vindo ao meu perfil 🤍
 
-<!--
-**Manuelastar/Manuelastar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☞Meu nome e Manuela Cristina ʚɞ 
 
-Here are some ideas to get you started:
+☞Estou estudando na Alura ʚɞ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☞Estou me desenvolvendo na linguagem JavaScript ʚɞ
+
+☞Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos ʚɞ
+
+☞Você pode entrar em contato comigo 📫 ʚɞ
+
+☞alurastartestudante@email.com ʚɞ
+
+☞@alurastartestudante ʚɞ
+
